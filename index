@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html data-lt-installed="true"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Znaczniki Blokowe - Auta</title>
+
+<meta name="keywords" content="znaczniki">
+<meta name="description" content="zadanie 1"> 
+<meta name="autor" content="Mikołaj Szopa"> 
+<meta name="robots" content="all">
+ <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        background-color: #600201;
+        }
+
+    </style>
+<link id="chromealerabat-link" rel="stylesheet" type="text/css" href="chrome-extension://dacdinoicboceafielngnmjjplncljhj/content.css"></head> 
+<body> 
+    <h2>
+    Wisława Szymborska – biografia.
+</h2> 
+<p style="margin-top: 20px;">Wisława Szymborska (ur. 2 lipca 1923 na Prowencie, zm. 1 lutego 2012 w Krakowie) – polska poetka, eseistka, krytyczka literacka,
+<br> tłumaczka, felietonistka; <strong>laureatka Nagrody Nobla</strong> w dziedzinie literatury (1996), członkini oraz założycielka Stowarzyszenia Pisarzy 
+<br>Polskich, członkini Polskiej Akademii Umiejętności, <strong>odznaczona Orderem Orła Białego</strong> .<br>
+Debiutowała w 1945 roku na łamach <cite>Dziennika Polskiego</cite> wierszem <cite>Szukam słowa</cite> ;
+<br></p><blockquote style="margin-top: -15px;margin-left: 15px;"><q> Chcę określić ich jednym wyrazem jacy - ?Biorę słowa potoczne, ze słowników kradnę, mierzę, ważę i badam -Żadne nie odpowiada.
+<br>&nbsp;&nbsp;&nbsp;Każde najodważniejsze - tchórzliwe, każde najpogardliwsze - jeszcze święte. Każde najokrutniejsze - nazbyt litościwe,
+<br>&nbsp;&nbsp;&nbsp;najbardziej nienawistne - za mało zawzięte.</q><p></p></blockquote>
+<small>źródło opisu: <a href="http://pl.wikipedia.org/">http://pl.wikipedia.org</a></small>
+
+ 
+
+</body></html>
